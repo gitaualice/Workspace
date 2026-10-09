@@ -4,12 +4,13 @@ This is my photography portfolio website. It shows my photos, tells people a lit
 
 I'm a photographer and a computer science student at the University of Maryland. I made this site to share my work and to learn how websites work behind the scenes.
 
-<!-- Screenshots: remove the arrows on the lines below once the pictures are in a "screenshots" folder -->
-<!-- ![Gallery](screenshots/gallery.png) -->
-<!-- ![Photo viewer](screenshots/viewer.png) -->
-<!-- ![Booking form](screenshots/booking.png) -->
-<!-- ![Bookings page](screenshots/about.png) -->
-<!-- ![Bookings page](screenshots/login.png) -->
+## Screenshots
+
+![Gallery](screanshots/gallery.png) 
+![Photo viewer](screanshots/viewer.png) 
+![Booking form](screanshots/booking.png) 
+![About](screanshots/about.png) 
+![Login](screanshots/login.png) 
 
 ---
 
